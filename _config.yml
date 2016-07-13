@@ -1,0 +1,14 @@
+layout_spectrum: 0.28499647742137313
+typography_spectrum: 0.4374244543723762
+color:
+  brandStrength: 0.8278247509151697
+  lightness: 0.7117680304218084
+  saturation: 0.2871338960248977
+  rhythmicContrast: 0.05297532491385937
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Professor
